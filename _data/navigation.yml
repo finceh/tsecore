@@ -2,23 +2,20 @@
   link: /pricing/
   new_window: false
   highlight: false
-- name: Blog
+- name: Updates
   link: /blog/
   new_window: false
   highlight: false
-- name: About
-  link: /about/
-  new_window: false
-  highlight: false
+
 - name: Contact
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
-  link: /
+- name: COMPANY
+  link: https://finceh.com/
   new_window: true
   highlight: false
-- name: Sign Up
-  link: /
+- name: DEMO
+  link: http://cash.finceh.com/hub/login/?next=/hub/
   new_window: true
   highlight: true

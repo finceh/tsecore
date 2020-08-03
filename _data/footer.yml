@@ -1,34 +1,23 @@
 - links:
   - name: Pricing
     link: /pricing/
-  - name: Blog
+  - name: Updates
     link: /blog/
-  - name: About
-    link: /about/
   - name: Contact
     link: /contact/
 - links:
-  - name: Login
-    link: /
+  - name: Demo
+    link: http://cash.finceh.com/hub/
     new_window: true
-  - name: Sign Up
-    link: /
+  - name: Company
+    link: https://finceh.com/
     new_window: true
-  - name: Docs
-    link: /
-    new_window: true
-  - name: Status
-    link: /
-    new_window: true
+
 - links:
   - name: Facebook
-    link: https://facebook.com/cloudcannon/
+    link: https://facebook.com/fincehllc
     new_window: true
     social_icon: Facebook
-  - name: Twitter
-    link: https://twitter.com/cloudcannon/
-    social_icon: Twitter
-    new_window: true
   - name: YouTube
     link: https://youtube.com/cloudcannon/
     social_icon: YouTube
